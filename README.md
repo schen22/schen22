@@ -1,8 +1,6 @@
-# Hi, I'm Sarah 👋
+# Hello, hello!
 
-I build small, useful things with AI as a pair: I set the goals, constraints and taste;
-[Claude Code](https://claude.com/claude-code) plans, builds and tests inside them, and I review
-every change.
+Currently experimenting a bunch with Claude primarily to build out my random product ideas, and also define effective workflows that respect best code maintenance practices, uxr/market research, architecture. I normally spend most of my time figuring out how to improve my writing these days to build more prototypes. I define goals, expected outcomes, and constraints and review the changes that [Claude Code](https://claude.com/claude-code) plans, builds and tests.
 
 ## Built with AI
 
