@@ -9,7 +9,7 @@ every change.
 | Project | What it is | How AI was used |
 |---|---|---|
 | [Snoozle's Garden](https://github.com/schen22/snoozle) · [live](https://snoozle.pages.dev) | A mobile-first page where a small creature helps you check in, recharge and plan lighter days | 70 of 71 commits co-authored with Claude, in two days; browser tests at three phone widths gate every commit |
-| [Sarah's Corner](https://sarahs-corner.pages.dev) | My personal site: posts, projects, things I'm into (repo private) | Rebuilt with Claude as plain HTML and CSS (11ty); accessibility and performance checks before each deploy |
+| [schen22.github.io](https://github.com/schen22/schen22.github.io) · [live](https://schen22.github.io) | My personal site: projects, notes and quibbles | Rebuilt with Claude in 2025 as an 11ty site |
 | [shindig](https://github.com/schen22/shindig) | Plan get-togethers with friends | My first try at agentic orchestration: 69 of 100 commits co-authored with Claude |
 | [web-kit](https://github.com/schen22/web-kit) | Shared header, light/dark toggle and starter for my sites | Copied into each site by a Claude skill |
 
